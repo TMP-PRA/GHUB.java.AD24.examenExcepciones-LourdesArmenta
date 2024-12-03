@@ -1,0 +1,7 @@
+./miPrincipal/Persona.java
+./miPrincipal/LeerPacientes.java
+./miPrincipal/Paciente.java
+./miPrincipal/RangoException.java
+./miPrincipal/Identificable.java
+./miPrincipal/Principal.java
+./miTest/AppTest.java
